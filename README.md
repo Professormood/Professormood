@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Santosh das
-- 👀 I'm self leaning student
-- 🌱 I’m currently learning web programming
+
